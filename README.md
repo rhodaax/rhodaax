@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rhodaax
+- 👀 I’m interested in Keyboards and programming 
+- 🌱 I’m currently learning Java, JS, HTML & freetime Python
+- 💞️ I’m looking to collaborate on anything that teaches me smth!
+- 📫 How to reach me -> rhodaax#6165 (Discord)
